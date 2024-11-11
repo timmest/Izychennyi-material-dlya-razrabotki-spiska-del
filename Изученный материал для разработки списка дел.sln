@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable", "Разработка списка дел\Nullable.csproj", "{403567C7-1828-4990-BDF4-017D318F9800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ калькулятор с остатком", "ДЗ калькулятор с остатком\ДЗ калькулятор с остатком.csproj", "{CE5DC6B4-1E7C-4D50-9D6C-2DB5C0A27C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Классы урок 55", "Классы урок 55\Классы урок 55.csproj", "{53775364-1A4D-4130-B532-6F61771907FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рисуем треугольники в консоли", "Рисуем треугольники в консоли\Рисуем треугольники в консоли.csproj", "{A350F48F-A578-464B-BA23-E56CB0DBE0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ссылочные и значимые типы  данных урок 38", "Ссылочные и значимые типы  данных урок 38\Ссылочные и значимые типы  данных урок 38.csproj", "{90F1C0E0-13E9-4096-8290-37DCC38F5516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Урок 37. Область видимости и о стат-их_Нестат-их Методах и Переменных", "Урок 37. Область видимости и о стат-их_Нестат-их Методах и Переменных\Урок 37. Область видимости и о стат-их_Нестат-их Методах и Переменных.csproj", "{9AC11AE3-2747-4CF5-851E-DA10E28CBA09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403567C7-1828-4990-BDF4-017D318F9800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403567C7-1828-4990-BDF4-017D318F9800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403567C7-1828-4990-BDF4-017D318F9800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403567C7-1828-4990-BDF4-017D318F9800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5DC6B4-1E7C-4D50-9D6C-2DB5C0A27C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5DC6B4-1E7C-4D50-9D6C-2DB5C0A27C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5DC6B4-1E7C-4D50-9D6C-2DB5C0A27C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5DC6B4-1E7C-4D50-9D6C-2DB5C0A27C74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53775364-1A4D-4130-B532-6F61771907FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53775364-1A4D-4130-B532-6F61771907FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53775364-1A4D-4130-B532-6F61771907FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53775364-1A4D-4130-B532-6F61771907FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A350F48F-A578-464B-BA23-E56CB0DBE0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A350F48F-A578-464B-BA23-E56CB0DBE0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A350F48F-A578-464B-BA23-E56CB0DBE0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A350F48F-A578-464B-BA23-E56CB0DBE0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F1C0E0-13E9-4096-8290-37DCC38F5516}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F1C0E0-13E9-4096-8290-37DCC38F5516}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F1C0E0-13E9-4096-8290-37DCC38F5516}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F1C0E0-13E9-4096-8290-37DCC38F5516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AC11AE3-2747-4CF5-851E-DA10E28CBA09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC11AE3-2747-4CF5-851E-DA10E28CBA09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC11AE3-2747-4CF5-851E-DA10E28CBA09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC11AE3-2747-4CF5-851E-DA10E28CBA09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8395C550-E440-4688-811B-CAD755E52247}
+	EndGlobalSection
+EndGlobal
